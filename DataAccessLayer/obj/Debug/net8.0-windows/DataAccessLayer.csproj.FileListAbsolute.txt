@@ -1,0 +1,4 @@
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\DataAccessLayer\obj\Debug\net8.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache

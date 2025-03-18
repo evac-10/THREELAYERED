@@ -1,0 +1,4 @@
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\BuisnessLogicLayer\obj\Debug\net8.0-windows\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\BuisnessLogicLayer\obj\Debug\net8.0-windows\BuisnessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\BuisnessLogicLayer\obj\Debug\net8.0-windows\BuisnessLogicLayer.AssemblyInfo.cs
+C:\Users\Raheem Laptops\source\repos\WindowsFormsApp2\BuisnessLogicLayer\obj\Debug\net8.0-windows\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
